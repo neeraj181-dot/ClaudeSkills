@@ -2,7 +2,7 @@
 
 A collection of **reusable [Claude Code](https://claude.com/claude-code) skills** for real development workflows — planning, understanding, designing, auditing, testing, optimizing, securing, and shipping software.
 
-![Skills](https://img.shields.io/badge/skills-13-blue) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Skills-8A2BE2)
+![Skills](https://img.shields.io/badge/skills-50-blue) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Skills-8A2BE2)
 
 Each skill is **self-contained and modular** — a single `SKILL.md` that teaches Claude Code how to act like a specialized senior engineer for one job. Install only the skills you need, or use them together as a full lifecycle.
 
